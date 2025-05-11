@@ -7,6 +7,7 @@ import { ChevronDown } from 'lucide-react';
 
 import { cn } from '@/lib/utils';
 
+// comments in accordion
 const Accordion = AccordionPrimitive.Root;
 
 const AccordionItem = React.forwardRef<

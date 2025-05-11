@@ -29,6 +29,7 @@ import Marquee from '@/components/ui/marquee';
 import { RainbowButton } from '@/components/ui/rainbow-button';
 import { cn } from '@/lib/utils';
 
+// comments here
 const navItems = [
   { label: 'Github', href: 'https://github.com/d-a-ve', icon: GitHubLogoIcon },
 ];
