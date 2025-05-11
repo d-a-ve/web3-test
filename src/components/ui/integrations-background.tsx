@@ -6,6 +6,7 @@ import Image from 'next/image';
 
 import Logo from '@/components/logo';
 
+// comments in integration-background
 import { AnimatedBeam } from './animated-beam';
 import { Circle } from './circle';
 

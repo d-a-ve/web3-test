@@ -2,6 +2,7 @@ import { useId } from 'react';
 
 import { cn } from '@/lib/utils';
 
+// add comments in dot-patterns
 interface DotPatternProps {
   width?: any;
   height?: any;

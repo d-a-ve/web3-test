@@ -7,6 +7,7 @@ import { X } from 'lucide-react';
 
 import { cn } from '@/lib/utils';
 
+// add comments in dialog
 const Dialog = DialogPrimitive.Root;
 
 const DialogTrigger = DialogPrimitive.Trigger;
